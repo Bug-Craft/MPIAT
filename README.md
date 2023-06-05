@@ -2,10 +2,13 @@
 Minecraft player information acquisition tool.
 ## How to use?
 This is a web demo.
+
 Chinese Version: 
 http://cn-fz-plc-1.openfrp.top:18000/tools/playerinfo/
-English version: 
+
+English Version: 
 http://cn-fz-plc-1.openfrp.top:18000/tools/playerinfo/mpiat.php
+
 You can try it out, but don't use it too frequently, otherwise my server may not be able to handle it.
 Open this web demo link and fill in the input box with the genuine username of Minecraft Java version. Then press the button.
 You can also deploy it to your HTTP server for more people to use.
