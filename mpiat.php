@@ -111,9 +111,9 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     <p class="page" >Skin URL: <?php echo $skin_url; ?></p>
     <p class="page" >Cape URL: <?php echo $cape_url; ?></p>
     <br>
-    <img class="page" src="<?php echo $skin_url; ?>" alt="你尚未查询玩家信息，这里本应显示皮肤图片的。">
+    <img class="page" src="<?php echo $skin_url; ?>" alt="You haven't got the player information yet, the skin picture should have been displayed here.">
     <br>
-    <img class="page" src="<?php echo $cape_url; ?>" alt="这个玩家没有披风，或者你还没有查询玩家信息。">
+    <img class="page" src="<?php echo $cape_url; ?>" alt="This player does not have a cape, or you have not got player information.">
     <br>
   </form>
   <h2 class="title" >How to use</h2>
